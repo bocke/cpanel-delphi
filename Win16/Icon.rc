@@ -1,0 +1,8 @@
+1 ICON ICON.ico
+
+STRINGTABLE
+{
+ 1, "Test Applet"
+ 2, "A Test Applet created with Delphi as DLL."
+ 3, "Hello World!"
+}
