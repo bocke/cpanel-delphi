@@ -1,6 +1,6 @@
 # Control Panel Applet in Delphi
 
-An example on how to create a control panel applet for Windows 16-bit/32-bit in Delphi. Originally cloned from @laciba96 but their account seems to be deleted in the meantime. 
+Examples on how to create a control panel applet for Windows 16-bit/32-bit in Delphi. Originally cloned from @laciba96 but their account seems to be deleted in the meantime. 
 
 The LICENSE of the code is GPLv3.
 
