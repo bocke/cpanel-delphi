@@ -2,7 +2,7 @@
 
 An example on how to create a control panel applets for Windows 16-bit/32-bit in Delphi. Originally cloned from @laciba96 but their account seems to be deleted in the meantime. 
 
-The LICENSE of the code is [GPLv3](https://github.com/bocke/cpanel-delphi/blob/main/LICENSE).
+The LICENSE is [GPLv3](https://github.com/bocke/cpanel-delphi/blob/main/LICENSE).
 
 ## The original README.md
 
