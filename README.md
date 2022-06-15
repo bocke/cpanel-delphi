@@ -1,4 +1,10 @@
-# Delphi-DLL-As-Cpl
+# Control Panel Applet in Delphi
+
+An example on how to create a control panel applet for Windows 16-bit/32-bit in Delphi. Originally cloned from @laciba96 but their account seems to be deleted in the meantime. 
+
+The LICENSE of the code is GPLv3.
+
+## The original README.md
 
 Some examples for creating CPL files in Delphi as a DLL for old systems like Windows 3.1 or Windows NT 3.5x.
 
