@@ -1,4 +1,4 @@
-# Control Panel Applet in Delphi
+# An Example of a Control Panel Applet in Delphi
 
 An example on how to create control panel applets for Windows 16-bit/32-bit in Delphi. Originally cloned from @laciba96 but their account seems to be deleted in the meantime. 
 
